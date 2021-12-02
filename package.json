@@ -15,7 +15,7 @@
     "@angular/common": "^2.0.0-rc.4",
     "@angular/compiler": "^2.0.0-rc.4",
     "@angular/core": "^2.0.0-rc.4",
-    "@angular/forms": "^0.2.0",
+    "@angular/forms": "0.3.0",
     "@angular/http": "^2.0.0-rc.4",
     "@angular/platform-browser": "^2.0.0-rc.4",
     "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
@@ -44,6 +44,6 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "webpack-merge": "^0.14.1",
-    "zone.js": "^0.6.12"
+    "zone.js": "0.11.4"
   }
 }
