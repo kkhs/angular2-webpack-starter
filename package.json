@@ -23,7 +23,7 @@
     "angular2-in-memory-web-api": "0.0.14",
     "angular2-template-loader": "^0.4.0",
     "browser-sync": "^2.13.0",
-    "browser-sync-webpack-plugin": "^1.1.0",
+    "browser-sync-webpack-plugin": "2.3.0",
     "core-js": "^2.4.1",
     "css-loader": "^0.23.1",
     "extract-text-webpack-plugin": "^1.0.1",
